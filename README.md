@@ -1,2 +1,5 @@
 # libud2
-A lightweight C++ hooking library using UD2 instruction for stealthy function interception.
+
+Modern C++ hooking library using UD2 instruction traps for stealthy function interception on Windows.
+
+Features: RAII auto-hooks, type-safe templates, vectored exception handling, minimal overhead.
